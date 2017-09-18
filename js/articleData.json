@@ -1,0 +1,160 @@
+{
+    "xiaoniaoNews1":{
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "小鸟动态",
+            "typeEntitle": "Our Dynamic",
+            "title": "胜林三境重装出发",
+            "sysId": 1,
+            "content": "content",
+            "coverImg": "images/article_image01.jpg"
+        }
+    },
+    "xiaoniaoNews2":{
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "小鸟动态",
+            "typeEntitle": "Our Dynamic",
+            "title": "小鸟掌学开通国外渠道",
+            "sysId": 2,
+            "content": "content",
+            "coverImg": "images/article_image02.jpg"
+        }
+    },
+   "xiaoniaoNews3": {
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "小鸟动态",
+            "typeEntitle": "Our Dynamic",
+            "title": "胜林三境天气app上线",
+            "sysId": 3,
+            "content": "content",
+            "coverImg": "images/article_image03.jpg"
+        }
+    },
+   "xiaoniaoNews4":{
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "小鸟动态",
+            "typeEntitle": "Our Dynamic",
+            "title": "国外报道",
+            "sysId": 4,
+            "content": "content",
+            "coverImg": "images/article_image04.jpg"
+        }
+    },
+    "companyIdea" :{
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "公司文化",
+            "typeEntitle": "company culture",
+            "title": "公司理念",
+            "content": "content",
+            "coverImg": "images1/article_image05.jpg"
+        }
+    },
+    "companyCulture":{
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "公司文化",
+            "typeEntitle": "company culture",
+            "title": "公司文化",
+            "content": "content",
+            "coverImg": "images1/article_image06.jpg"
+        }
+    },
+    "companyEnvironment":{
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "公司文化",
+            "typeEntitle": "company culture",
+            "title": "公司氛围",
+            "content": "content",
+            "coverImg": "images1/article_image07.jpg"
+        }
+    },
+    "talents":{
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "人力资源",
+            "typeEntitle": "company culture",
+            "title": "人才理念",
+            "content": "content",
+            "coverImg": "images1/article_image08.jpg"
+        }
+    },
+    "team":{
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "人力资源",
+            "typeEntitle": "company culture",
+            "title": "团队介绍",
+            "content": "content",
+            "coverImg": "images1/article_image09.jpg"
+        }
+    },
+    "joinUs":{
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "人力资源",
+            "typeEntitle": "company culture",
+            "title": "招聘信息",
+            "content": "content",
+            "coverImg": "images1/article_image10.jpg"
+        }
+    },
+    "telUs":{
+        "success": "成功",
+        "data": {
+            "creatAt": "2016-02-03 15:23:56.0",
+            "creatByFullName": "管理员",
+            "updateAt": "2016-02-19 16:02:42.0",
+            "updateByFullName": "管理员",
+            "typeTitle": "联系我们",
+            "typeEntitle": "Contact Us",
+            "title": "联系我们",
+            "content": "content",
+            "coverImg": "images1/article_image11.jpg"
+        }
+    }
+}
